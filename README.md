@@ -18,7 +18,13 @@
 
 ###
 
-<h4 align="center">What i used so far</h4>
+<div align="center">
+  <img height="400" src="https://i.redd.it/0sjhzop5dfm51.gif"  />
+</div>
+
+###
+
+<h2 align="center">What i used so far</h2>
 
 ###
 
@@ -80,7 +86,7 @@
 
 ###
 
-<p align="center">Look ma! I'm famous!</p>
+<h3 align="center">Look ma! I'm famous!</h3>
 
 ###
 
@@ -93,16 +99,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/pietro-quintavalle-996b96267" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img height="450" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/pietro-quintavalle-996b96267" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
