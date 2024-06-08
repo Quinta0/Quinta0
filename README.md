@@ -92,10 +92,6 @@
 
 ###
 
-<img align="right" height="500" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="www.linkedin.com/in/pietro-quintavalle-996b96267" target="_blank">
@@ -105,6 +101,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Quinta0/Quinta0/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="450" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+</div>
+
+###
+
+###
+
+[![Quinta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Quinta0&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
