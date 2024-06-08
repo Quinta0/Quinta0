@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Quintavalle Pietro</h1>
 <h3 align="center">Just a student who's a beginner in the field of CS</h3>
 <div style="padding-bottom: 35px;">
-<img align="right" alt="PFP" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="PFP" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 </div>
 
 - 🌱 I’m currently learning **Springboot, Vite, Flask**
