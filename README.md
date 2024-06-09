@@ -11,9 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quinta0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Quinta0&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quinta0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quinta0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Quinta0&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quinta0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -86,11 +86,11 @@
 
 ###
 
-<h3 align="center">Look ma! I'm famous!</h3>
+<h3 align="center">Look Ma! I'm famous!</h3>
+<p align="center">If you see this give a star 👀</p>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Quinta0/count.svg?"  />
