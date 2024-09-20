@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! <br>My name is Quintavalle Pietro <br>and I'm a CS student, from Switzerland</h1>
+<h1 align="center">Hi 👋! <br>My name is Quintavalle Pietro <br>and I'm a BSc student, from Switzerland passionate about economics and IT</h1>
 
 ###
 
