@@ -41,7 +41,7 @@ VS Code • IntelliJ • PyCharm • WebStorm • Jupyter
 ## Connect
 
 <div align="center">
-  <a href="[https://quinta0.github.io/](https://quinta0.github.io/whoami/)">
+  <a href="https://quinta0.github.io/whoami">
     <img src="https://img.shields.io/badge/Portfolio-4C566A?style=for-the-badge&logo=About.me&logoColor=D8DEE9" alt="Portfolio"/>
   </a>
   <a href="mailto:0pietroquintavalle0@gmail.com">
