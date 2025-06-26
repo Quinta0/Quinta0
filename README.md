@@ -34,9 +34,7 @@ VS Code • IntelliJ • PyCharm • WebStorm • Jupyter
   <img src="https://githubstats-fawn.vercel.app/api/top-langs?username=Quinta0&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=D8DEE9" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Quinta0&theme=nord&hide_border=true&background=2E3440&ring=81A1C1&fire=D08770&currStreakLabel=D8DEE9" height="200"/>
-</div>
+
 
 ---
 
