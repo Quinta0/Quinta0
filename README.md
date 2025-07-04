@@ -12,7 +12,7 @@ I'm passionate about the intersection of economics and technology, currently pur
 
 **Languages & Frameworks**
 ```
-Python • JavaScript • TypeScript • Java • React • Flask • Express
+Python • JavaScript • TypeScript • Java • React • Express
 ```
 
 **Tools & Technologies**
