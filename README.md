@@ -1,9 +1,9 @@
-<!-- Profile banner or minimalist SVG could go here if you wish -->
-
-# Pietro Quintavalle
+<!-- Custom SVG Header -->
 <p align="center">
   <img src="./one-ring-header.svg" alt="One Ring Inscription Header" width="100%" />
 </p>
+
+# Pietro Quintavalle
 
 <div align="center">
   <b>Economics Student & IT Consultant · Switzerland 🇨🇭</b>
@@ -85,10 +85,18 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://githubstats-fawn.vercel.app/api?username=Quinta0&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=D8DEE9&icon_color=88C0D0" height="180"/>
+  <img src="https://githubstats-fawn.vercel.app/api/top-langs?username=Quinta0&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=D8DEE9" height="180"/>
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
-
 <a href="https://quinta0.github.io/whoami">
   <img src="https://img.shields.io/badge/Portfolio-4C566A?style=for-the-badge&logo=About.me&logoColor=D8DEE9" alt="Portfolio"/>
 </a>
@@ -98,7 +106,6 @@
 <a href="https://www.linkedin.com/in/pietro-quintavalle-996b96267/">
   <img src="https://img.shields.io/badge/LinkedIn-81A1C1?style=for-the-badge&logo=linkedin&logoColor=2E3440" alt="LinkedIn"/>
 </a>
-
 </div>
 
 ---
