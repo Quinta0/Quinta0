@@ -1,10 +1,9 @@
 <!-- Profile banner or minimalist SVG could go here if you wish -->
 
 # Pietro Quintavalle
-
-<div align="center">
-  <img width="120" src="https://cdn.jsdelivr.net/gh/Quinta0/Quinta0/assets/profile-nord.svg" alt="Minimalist avatar" />
-</div>
+<p align="center">
+  <img src="./one-ring-header.svg" alt="One Ring Inscription Header" width="100%" />
+</p>
 
 <div align="center">
   <b>Economics Student & IT Consultant · Switzerland 🇨🇭</b>
