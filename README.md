@@ -13,7 +13,7 @@
 
 ## About Me
 
-> Hi! I'm Pietro, an IT Support–certified Economics student (USI, Lugano) with 5+ years' experience in system administration, virtualization, and network infrastructure.  
+> Hi! I'm Pietro, but friends call me Quinta, an Economics student (USI, Lugano) with 5+ years' experience in system administration, virtualization, and network infrastructure.  
 > 
 > I engineer robust, secure, and scalable solutions—delivering production-grade servers (90%+ uptime) and infrastructure for clients and personal projects.  
 > 
